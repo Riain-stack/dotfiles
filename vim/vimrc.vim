@@ -26,6 +26,8 @@ Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'ayu-theme/ayu-vim'
 Plugin 'rafi/awesome-vim-colorschemes'
 Plugin 'sickill/vim-monokai'
+Plugin 'xuhdev/vim-latex-live-preview'
+Plugin 'JamshedVesuna/vim-markdown-preview'
 
 " Ultisnip -------------------------------------------------------
 " Track the engine.
